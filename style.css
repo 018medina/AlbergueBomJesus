@@ -23,7 +23,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("imgs/fotoTodosLoja.JPG");
+  background-image: url("img/faixada.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -38,11 +38,11 @@ body::before {
   max-width: 400px;
   text-align: center;
   padding: 20px;
-  background-color: white !important;
+  /* background-color: white !important; */
 }
 
 .logo img {
-  max-width: 100px;
+  max-width: 100%;
 }
 
 h1 {
